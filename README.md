@@ -2,4 +2,4 @@
 TCP,UPD,DNS etc
 
 If you need any support dm me!
-Discord:
+Discord: luciferpy
